@@ -1,2 +1,8 @@
 # Delta-V-Calc
-a Calculator that calculates Delta V
+Just to do some simple c++ calculator
+
+User inputs:
+-specific Impuls
+-Standart gravity
+-Initial Mass
+-Dry Mass
