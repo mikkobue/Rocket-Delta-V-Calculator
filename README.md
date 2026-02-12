@@ -1,5 +1,5 @@
 # Delta-V-Calc
-Just to do some simple c++ calculator
+C++ implementation of the Tsiolkovsky Rocket Equation for single and multi-stage vehicles.
 
 User inputs:
 -specific Impuls
